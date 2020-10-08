@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author rnavarro
+ * @author daniel
  */
 public class Http_server {
     
